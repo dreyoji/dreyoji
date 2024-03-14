@@ -3,8 +3,8 @@
     Hello there! <img src="https://github.com/dreyoji/dreyoji/blob/a05b81839da5b5d153db2f78fdfef38ca01d0f45/gif/waving_hand.gif" width="24px" alt="hi">
   </h3> 
   
-  <p align="center">
-        &ensp; Hey there! I'm <b>Ryoji Bernardo</b>, a passionate and aspiring Machine Learning/AI Engineer pursuing my degree at Mapua University! I'm deeply fascinated by the world of artificial intelligence and its endless possibilities to reshape our future. My journey is just beginning, but I'm already diving headfirst into the exciting realms of machine learning, data science, and AI research.
+  <p align="justify">
+        &emsp; Hey there! I'm <b>Ryoji Bernardo</b>, a passionate and aspiring Machine Learning/AI Engineer pursuing my degree at Mapua University! I'm deeply fascinated by the world of artificial intelligence and its endless possibilities to reshape our future. My journey is just beginning, but I'm already diving headfirst into the exciting realms of machine learning, data science, and AI research.
   </p>
 <div/>
   
@@ -27,7 +27,7 @@
     ⚡️ More about my coding life
   </h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreyoji&layout=compact&hide=Rust,Makefile,LLVM,TypeScript,Shell) <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreyoji&layout=compact&hide=Rust,Makefile,LLVM,TypeScript,Shell) <br> <br>
   ![dreyoji's github stats](https://github-readme-stats.vercel.app/api?username=dreyoji&count_private=true&show_icons=true&theme=onedark)
 </div>
 
